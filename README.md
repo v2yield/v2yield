@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
+
+<h3 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Wishing+you+the+best+day!&center=true&size=27&color=F74369">
+	</a>
+</h3>
 
 ### 🏆 Github Stats:
 
@@ -27,7 +34,7 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![:name](https://count.getloli.com/get/@:name?theme=gelbooru) 
 
-[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield)
 
 ### 🤝 Connect with me:
 
