@@ -29,5 +29,6 @@ Here are some ideas to get you started:
   
 ### 🤝 Connect with me:
 
+
 - &nbsp;[![Gmail Badge](https://img.shields.io/badge/-wye2207256537@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wye2207256537@gmail.com)](mailto:wye2207256537@gmail.com)
 
