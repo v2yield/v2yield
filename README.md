@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <img alt="V2yield's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v2yield&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![:name](https://count.getloli.com/get/@:name?theme=gelbooru) 
-  
+
+[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield)
+
 ### 🤝 Connect with me:
 
 
