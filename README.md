@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield)
 
-### 🤝 Connect with me:
+<!-- ### 🤝 Connect with me:
 
 
-- &nbsp;[![Gmail Badge](https://img.shields.io/badge/-wye2207256537@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wye2207256537@gmail.com)](mailto:wye2207256537@gmail.com)
+- &nbsp;[![Gmail Badge](https://img.shields.io/badge/-wye2207256537@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wye2207256537@gmail.com)](mailto:wye2207256537@gmail.com) -->
 
