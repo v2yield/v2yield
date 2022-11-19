@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Wishing+you+the+best+day!&center=true&size=27&color=F74369">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=SHOW-SHOW-WAY!&center=true&size=27&color=F74369">
 	</a>
 </h3>
 
