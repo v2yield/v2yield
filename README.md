@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 	</a>
 </h3>
 
-### 🏆 Github Stats:
+<!-- ### 🏆 Github Stats:
 
 <img alt="V2yield's Github Stats" src="https://github-readme-stats.vercel.app/api?username=v2yield&hide=stars&show_icons=true&hide_border=true&theme=radical" width="500"/>
 
-<img alt="V2yield's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v2yield&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+<img alt="V2yield's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v2yield&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>  -->
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![:name](https://count.getloli.com/get/@:v2yield?theme=gelbooru) -->
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield) -->
 
-<!-- ### 🤝 Connect with me:
+### 🤝 Connect with me:
 
 
-- &nbsp;[![Gmail Badge](https://img.shields.io/badge/-wye2207256537@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wye2207256537@gmail.com)](mailto:wye2207256537@gmail.com) -->
+- &nbsp;[![Gmail Badge](https://img.shields.io/badge/-wye2207256537@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wye2207256537@gmail.com)](mailto:wye2207256537@gmail.com)
 
