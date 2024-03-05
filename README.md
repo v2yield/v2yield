@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 	<a href="https://sunguoqi.com/">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=SHOW-SHOW-WAY!&center=true&size=27&color=F74369">
 	</a>
-</h3>
+</h3> -->
 
 <!-- ### 🏆 Github Stats:
 
