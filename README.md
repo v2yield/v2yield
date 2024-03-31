@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield) -->
 
 
-- &nbsp;[**Contach Me**](mailto:wye2207256537@gmail.com)
+- &nbsp;[**Contact Me**](mailto:wye2207256537@gmail.com)
 
