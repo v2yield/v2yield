@@ -39,11 +39,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   17 hrs 3 mins   █████████████████▓░░░░░░░   70.71 %
-NCL      3 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-C++      2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Text     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-TeX      22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+From: 31 March 2024 - To: 30 April 2024
+
+Total Time: 24 hrs 7 mins
+
+Python   17 hrs 3 mins   ░░░░░░░░░░░░░░░░░ ███████   70.71 %
+NCL      3 hrs 13 mins   ░░░ █████████████████████   13.36 %
+C++      2 hrs 27 mins   ░░ ██████████████████████   10.20 %
 ```
 
 <!--END_SECTION:waka-->
