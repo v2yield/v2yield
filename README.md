@@ -37,17 +37,45 @@ Here are some ideas to get you started:
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2038%20mins-blue)
 
-```txt
-From: 31 March 2024 - To: 30 April 2024
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-Total Time: 24 hrs 7 mins
+📅 **I'm Most Productive on Friday** 
 
-Python   17 hrs 3 mins   ░░░░░░░░░░░░░░░░░ ███████   70.71 %
-NCL      3 hrs 13 mins   ░░░ █████████████████████   13.36 %
-C++      2 hrs 27 mins   ░░ ██████████████████████   10.20 %
+```text
+Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Tuesday                  33 commits          █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Thursday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Friday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Sunday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      1 hr 34 mins        ████████████████████░░░░░   80.52 % 
+Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+C                        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+
+🔥 Editors: 
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      1 hr 56 mins        █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/v2yield/v2yield/master/assets/bar_graph.png)
+
+
+ Last Updated on 01/05/2024 14:03:53 UTC
 <!--END_SECTION:waka-->
 
 - &nbsp;[**Contact Me**](mailto:wye2207256537@gmail.com)
