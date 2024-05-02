@@ -73,5 +73,5 @@ WSL                      1 hr 56 mins        ███████████�
 
 <!--END_SECTION:waka-->
 
-- &nbsp;[**Contact Me**](mailto:wye2207256537@gmail.com)
+<!--&nbsp;[**Contact Me**](mailto:wye2207256537@gmail.com)-->
 
