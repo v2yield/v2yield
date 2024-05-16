@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-207-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 📅 **I'm Most Productive on Friday** 
 
