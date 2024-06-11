@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -58,15 +58,15 @@ Sunday                   31 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Cuda                     1 hr 50 mins        ██████████████████████░░░   89.14 % 
-C                        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Cuda                     2 hrs 6 mins        ███████████████████████░░   90.41 % 
+C                        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 3 mins        █████████████████████████   100.00 % 
+WSL                      2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
