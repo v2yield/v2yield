@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![V2yield's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=V2yield&theme=xcode)](https://github.com/V2yield) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
